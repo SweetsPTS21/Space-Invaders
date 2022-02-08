@@ -1,0 +1,9 @@
+------------------Space Invaders by Python group 12-------------------
+
++ Level Design: Phạm Thanh Sơn, Nguyễn Văn Dũng
++ Programming: Phạm Thanh Sơn
++ Stock Texture: Mỹ Linh, Nguyễn Anh Tuấn
++ Audio: Nguyễn Văn Dũng
++ Additional Modelling: Nguyễn Văn Hiếu
+
+
