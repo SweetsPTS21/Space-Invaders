@@ -8,5 +8,5 @@ An open source game created by me and friends.
 - Open project and run main.py. Enjoy.
 # References
 - Techwithtim: https://www.youtube.com/watch?v=Q-__8Xw9KTM
-- Python crash course: https://j2c.cc/6e0c03bb
-- Python the hard way 3rd edition: https://j2c.cc/585dd9f9
+- Python crash course: [Link](https://thptanlac-my.sharepoint.com/:b:/g/personal/pts_28032001_thptanlac_vn/EVqlKh1IpK9HgPb0X6Ydw2cBk6tVDHMdMuRBvqhKIUiDbg?e=J5H1Je)
+- Python the hard way 3rd edition:[Link](https://thptanlac-my.sharepoint.com/:b:/g/personal/pts_28032001_thptanlac_vn/ETSv9l3qttpIlE2sv26-_b4BHrk0si6ekZrKmJTpV0uX1g?e=8QlWRW)
