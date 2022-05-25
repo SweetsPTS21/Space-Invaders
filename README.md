@@ -9,4 +9,4 @@ An open source game created by me and friends.
 # References
 - Techwithtim: [Youtube Techwithtim](https://www.youtube.com/watch?v=Q-__8Xw9KTM)
 - Python crash course: [Google Drive](https://thptanlac-my.sharepoint.com/:b:/g/personal/pts_28032001_thptanlac_vn/EVqlKh1IpK9HgPb0X6Ydw2cBk6tVDHMdMuRBvqhKIUiDbg?e=J5H1Je)
-- Python the hard way 3rd edition: [Google Drive])(https://thptanlac-my.sharepoint.com/:b:/g/personal/pts_28032001_thptanlac_vn/ETSv9l3qttpIlE2sv26-_b4BHrk0si6ekZrKmJTpV0uX1g?e=8QlWRW)
+- Python the hard way 3rd edition: [Google Drive](https://thptanlac-my.sharepoint.com/:b:/g/personal/pts_28032001_thptanlac_vn/ETSv9l3qttpIlE2sv26-_b4BHrk0si6ekZrKmJTpV0uX1g?e=8QlWRW)
