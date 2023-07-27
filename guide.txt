@@ -1,0 +1,14 @@
+Người chơi sẽ điều khiển một chiếc máy bay để bắn các alien.
+Alien có thể bắn ngược lại bạn.
+Người chơi hãy cố gắng di chuyển thật khéo léo để né các
+đợt tấn công.
+Khi bắn hạ được các alien người chơi có thể nhận được
+điểm thưởng.
+Người chơi sẽ được cung cấp 5 mạng để chơi.
+Độ khó của game sẽ tăng dần theo level.
+Số đạn bắn ra cũng sẽ tăng dần, tối đa là 3 viên cùng lúc.
+-------------------------------KEYBLIND----------------------------------
+Space : Bắn
+W S A D : Di chuyển lên trên/dưới/trái/phải
+ESC : tạm dừng trò chơi, bấm ESC lần nữa để tiếp tục
+Trong menu tạm dừng, bấm M để về menu chính.

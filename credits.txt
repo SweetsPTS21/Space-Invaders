@@ -1,0 +1,9 @@
+------------------Space Invaders-------------------
+Thanks you for playing my game. This is a simple game made by Pygame.
++ Level Design: Phạm Thanh Sơn
++ Programming: Phạm Thanh Sơn
++ Stock Texture: Phạm Thanh Sơn
++ Audio: Phạm Thanh Sơn
++ Additional Modelling: Phạm Thanh Sơn
+
+
